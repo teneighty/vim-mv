@@ -1,0 +1,12 @@
+*mv.txt*  Move stuff around
+
+Author:  Tim Horton <tmhorton@gmail.com>
+License: Same terms as Vim itself (see |license|)
+
+Comment stuff out.  Then uncomment it later.  Relies on 'commentstring' to be
+correctly set.
+
+                                                *Mv*
+Mv {file}       If {file} is a directory move, otherwise rename.
+
+ vim:tw=78:ts=8:ft=help:norl:
